@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 camara
 
@@ -8,3 +9,6 @@ fugeray
 =======
 hugo
 >>>>>>> a78abd86bb2fb869711ae09d3efd79a2165ee354
+=======
+hugo
+>>>>>>> origin
