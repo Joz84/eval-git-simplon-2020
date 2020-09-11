@@ -1,1 +1,10 @@
+<<<<<<< HEAD
 camara essai 2
+=======
+
+camara
+
+hugo
+
+fugeray
+>>>>>>> master
