@@ -1,8 +1,12 @@
 camara
 hugo
+<<<<<<< HEAD
 thibault
 adrien
 steeven
 adrien
 
 Pierre
+=======
+Muriel
+>>>>>>> 9c1e3bc680140bd7bdb4558651dd9eb9b78f1350
